@@ -26,7 +26,8 @@ Contributions are welcome! If you have improvements, additional solutions, or su
 ## 🙏 Credits
 
 - **University of Michigan** for the [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-- [Dr. Charles Severance (Dr. Chuck)](https://www.dr-chuck.com/) for his outstanding teaching
+- [Dr. Charles Russell Severance (Dr. Chuck)](https://www.coursera.org/instructor/drchuck) for his outstanding teaching
+- [Coursera](https://www.coursera.org/) for the great platform
 
 ---
 
