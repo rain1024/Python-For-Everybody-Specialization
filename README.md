@@ -1,6 +1,4 @@
-<p align="center">
-  <h1 align="center">Python for Everybody Specialization</h1>
-</p>
+<h1 align="center">Python for Everybody Specialization</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/year-2025-brightgreen">
