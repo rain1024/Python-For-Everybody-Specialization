@@ -30,6 +30,6 @@ Contributions are welcome! If you have improvements, additional solutions, or su
 
 ---
 
-<h2 align="center">
-Happy learning and coding! 🎉
-</h2>
+<p align="center">
+<b>Happy learning and coding! 🎉</b>
+</p>
