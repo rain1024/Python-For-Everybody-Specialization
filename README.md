@@ -5,15 +5,11 @@
   <img src="https://img.shields.io/badge/platform-coursera-blue">
 </p>
 
----
-
 Welcome to the ultimate resource for mastering Python! This repository contains the complete source code, practical exercises, and solutions for the **"Python for Everybody" Specialization** by the University of Michigan on Coursera.
 
 Whether you're a beginner or looking to strengthen your Python skills, this repo is designed to help you learn by doing, with well-organized code and real-world assignments.
 
 **Specialization Link:** [Python for Everybody Specialization on Coursera](https://www.coursera.org/specializations/python)
-
----
 
 ## 📚 Courses Included
 
@@ -28,8 +24,6 @@ Whether you're a beginner or looking to strengthen your Python skills, this repo
 ## 🤝 Contributing
 
 Contributions are welcome! If you have improvements, additional solutions, or suggestions, feel free to open an issue or submit a pull request.
-
----
 
 ## 🙏 Credits
 
