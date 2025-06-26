@@ -19,8 +19,6 @@ Whether you're a beginner or looking to strengthen your Python skills, this repo
 4. [**Using Databases with Python**](https://www.coursera.org/learn/python-databases?specialization=python)
 5. [**Capstone: Retrieving, Processing, and Visualizing Data with Python**](https://www.coursera.org/learn/python-data-visualization?specialization=python)
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have improvements, additional solutions, or suggestions, feel free to open an issue or submit a pull request.
@@ -29,7 +27,5 @@ Contributions are welcome! If you have improvements, additional solutions, or su
 
 - **University of Michigan** for the [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 - [Dr. Charles Severance (Dr. Chuck)](https://www.dr-chuck.com/) for his outstanding teaching
-
----
 
 Happy learning and coding! 🎉
