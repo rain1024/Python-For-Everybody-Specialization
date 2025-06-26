@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Python for Everybody Specialization</h1>
+  <h1 align="center">Python for Everybody Specialization</h1>
 </p>
 
 <p align="center">
