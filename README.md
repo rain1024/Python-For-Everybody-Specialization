@@ -21,7 +21,7 @@ Whether you're a beginner or looking to strengthen your Python skills, this repo
 
 ## Course Content
 
-![](.course-content.png)
+![](./course-content.png)
 
 ## 🤝 Contributing
 
