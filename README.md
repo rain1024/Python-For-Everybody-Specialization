@@ -1,8 +1,9 @@
 # Python for Everybody Specialization
 
-<img src="https://img.shields.io/badge/year-2025-brightgreen">
-
-<img src="https://img.shields.io/badge/platform-coursera-brightgreen">
+<p align="center">
+  <img src="https://img.shields.io/badge/year-2025-brightgreen">
+  <img src="https://img.shields.io/badge/platform-coursera-blue">
+</p>
 
 This repository contains the complete source code and practical exercises for the "Python for Everybody" Specialization offered by the University of Michigan on Coursera.
 
