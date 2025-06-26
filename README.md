@@ -19,7 +19,7 @@ Whether you're a beginner or looking to strengthen your Python skills, this repo
 4. [**Using Databases with Python**](https://www.coursera.org/learn/python-databases?specialization=python)
 5. [**Capstone: Retrieving, Processing, and Visualizing Data with Python**](https://www.coursera.org/learn/python-data-visualization?specialization=python)
 
-## Course Content
+## 📋 Course Overview & Learning Path
 
 ![](./course-content.png)
 
