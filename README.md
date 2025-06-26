@@ -28,9 +28,8 @@ Contributions are welcome! If you have improvements, additional solutions, or su
 - **University of Michigan** for the [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 - [Dr. Charles Severance (Dr. Chuck)](https://www.dr-chuck.com/) for his outstanding teaching
 
+---
+
 <h2 align="center">
 Happy learning and coding! 🎉
 </h2>
-
-
-
