@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/year-2025-brightgreen">
   <img src="https://img.shields.io/badge/platform-coursera-blue">
-  <img src="https://img.shields.io/badge/status-active-red">
+  <img src="https://img.shields.io/badge/status-active-green">
 </p>
 
 Welcome to the ultimate resource for mastering Python! This repository contains the complete source code, practical exercises, and solutions for the **"Python for Everybody" Specialization** by the University of Michigan on Coursera.
