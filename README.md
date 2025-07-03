@@ -1,8 +1,9 @@
 <h1 align="center">Python for Everybody Specialization 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/year-2025-brightgreen">
-  <img src="https://img.shields.io/badge/platform-coursera-blue">
+  <img src="https://img.shields.io/badge/year-2025-blue">
+  <img src="https://img.shields.io/badge/madewith-love-red">
+  <img src="https://img.shields.io/badge/platform-coursera-brightgreen">
   <img src="https://img.shields.io/badge/status-active-green">
 </p>
 
