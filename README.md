@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/year-2025-blue">
-  <img src="https://img.shields.io/badge/made-with-love-red">
+  <img src="https://img.shields.io/badge/made&nbsp;with-love-red">
   <img src="https://img.shields.io/badge/platform-coursera-brightgreen">
   <img src="https://img.shields.io/badge/status-active-green">
 </p>
